@@ -123,4 +123,4 @@ if b"IGTF{" in msg:
 
 ## **📸 Proof of Concept**  
 Here is the screenshot of the script execution showing the successful recovery of the flag:
-![Script Execution](solve/Screenshot%202025-11-22%20185015.png)
+![Script Execution](solve/Final_Result.png)
