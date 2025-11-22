@@ -22,8 +22,8 @@ The author of this challenge wanted to "optimize" RSA encryption by committing t
 
 **Goal:** Recover the original message (the flag) without knowing the private key (which mathematically doesn't exist in this configuration).
 
-### 📂 Provided Files
-* `solve.py`: The complete resolution script.
+### 📂 Provided File
+
 * `challenge_data.txt`: The raw values of $N$, $e$, and $ct$.
 
 ---
