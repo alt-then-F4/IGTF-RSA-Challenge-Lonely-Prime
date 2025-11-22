@@ -1,4 +1,4 @@
-Markdown# 🐍 Deep Dive: Line-by-Line Code Analysis
+* **🐍 Deep Dive: Line-by-Line Code Analysis**
 
 This document provides a granular explanation of the `solve.py` script. It breaks down every significant block of code to explain the mathematical logic behind the exploit.
 
